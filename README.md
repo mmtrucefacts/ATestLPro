@@ -1,4 +1,4 @@
-# website-aio
+# removed name or it will be blocked
 
 ## Who this repository is for
 
@@ -30,8 +30,5 @@ These repositories are setup when you deploy an instance.
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://github.com/holy-unblocker/website-aio/wiki/Remix-on-Glitch)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://github.com/holy-unblocker/website-aio/wiki/Deploy-to-Koyeb)
 
-If you are deploying to an alternative service or to a server, refer to [Deploy via terminal](https://github.com/holy-unblocker/website-aio/wiki/Deploy-via-terminal).
-
-Additional information can be found on the [wiki](https://github.com/holy-unblocker/website-aio/wiki).
 
 If you need help deploying, open a ticket in our [Discord server](https://discord.gg/gvenmHBZsQ).
